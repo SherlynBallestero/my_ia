@@ -4,7 +4,9 @@
 Sherlyn Ballestero cruz
 Maria de Lourdes Choy
 Alejandro Yero Valdés
-Tarea CP2. Se entrega el lunes. Tarea por equipos de a 3.
+
+
+## Tarea CP2. Se entrega el lunes. Tarea por equipos de a 3.
 
 - Implementar los métodos en el Notebook de Jupyter de la CP relacionados con el problema de los Pancakes. 
 
